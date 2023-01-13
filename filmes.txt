@@ -1,3 +1,5 @@
 "Não há certezas, apenas oportunidades." (V de Vingança)
 "Diga ’olá’ para meu pequeno amigo!" (Scarface)
 "Se você olhar muito tempo para o abismo, o abismo olha de volta para você" (Dark, Nietzsche)
+
+Essas citações são apenas aleatórias pois estou aprendendo a utilizar git e github
